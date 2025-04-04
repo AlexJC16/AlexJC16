@@ -4,8 +4,10 @@
 ![Image](https://github.com/user-attachments/assets/78edf30e-19da-43df-9d77-73f24e991868)
 
 ## Sobre mi
-parrafo blab la
+🐣
 
+## Vos
+🦠
 
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Buenos%20Aires-ARG-blue?style=for-the-badge&logo=location&labelColor=yellow&logoColor=fff)
 ![GitHub followers](https://img.shields.io/github/followers/AlexJC16?style=for-the-badge&logo=github)
