@@ -1,8 +1,6 @@
 # Hola soy Alexander 👋
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/487e3323-835a-409e-adfa-e94b3b0e38e7" alt="Imagen" style="width: 100%; height: auto;">
-</div>
+![uso-css-javascript-html-supervisar-primer-plano-codigo-fuente-funcion-fondo-abstracto-tecnologia-ti-codigo-fuente-software_372999-2337](https://github.com/user-attachments/assets/7623b8d7-917c-43c3-8ef0-f967ddd6476e)
 
 ## Sobre mi
 parrafo blab la
