@@ -1,4 +1,12 @@
 # Hola soy Alexander 👋
+
+<img src="https://github.com/user-attachments/assets/487e3323-835a-409e-adfa-e94b3b0e38e7" alt="Imagen" style="width: 90%; height: auto;">
+
+
+## Sobre mi
+parrafo blab la
+
+
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Buenos%20Aires-ARG-blue?style=for-the-badge&logo=location&labelColor=yellow&logoColor=fff)
 ![GitHub followers](https://img.shields.io/github/followers/AlexJC16?style=for-the-badge&logo=github)
 
