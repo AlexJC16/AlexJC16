@@ -1,4 +1,5 @@
-# Hola soy Alexander 👋
+<h1 align="center">Hola soy Alexander 👋</h1>
+
 
 ![Image](https://github.com/user-attachments/assets/78edf30e-19da-43df-9d77-73f24e991868)
 
