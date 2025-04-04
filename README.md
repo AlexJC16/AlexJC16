@@ -5,7 +5,7 @@
 ## Sobre mi
 # - 🐣 🦢
 
-# Vos
+## Vos
 # - 🦠🦟🐀
 
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Buenos%20Aires-ARG-blue?style=for-the-badge&logo=location&labelColor=yellow&logoColor=fff)
