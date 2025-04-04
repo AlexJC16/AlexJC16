@@ -8,9 +8,9 @@
 
 - proximamente...
 - en la brevedad...
-- <a href="https://www.ejemplo.com](https://www.youtube.com/watch?v=GuZzuQvv7uc&ab_channel=chayanneVEVO" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Apretame%20si%20te%20la%20bancas-green?style=for-the-badge">
-  </a>
+<a href="https://www.youtube.com/watch?v=GuZzuQvv7uc&ab_channel=chayanneVEVO" target="_blank">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Apretame%20si%20te%20la%20bancas-green?style=for-the-badge">
+</a>
 
 
 <h2>Social Media</h2>
