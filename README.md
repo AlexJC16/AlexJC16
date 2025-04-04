@@ -1,6 +1,6 @@
 # Hola soy Alexander 👋
 
-![uso-css-javascript-html-supervisar-primer-plano-codigo-fuente-funcion-fondo-abstracto-tecnologia-ti-codigo-fuente-software_372999-2337](https://github.com/user-attachments/assets/7623b8d7-917c-43c3-8ef0-f967ddd6476e)
+![Image](https://github.com/user-attachments/assets/78edf30e-19da-43df-9d77-73f24e991868)
 
 ## Sobre mi
 parrafo blab la
