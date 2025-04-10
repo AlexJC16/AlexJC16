@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Hola+Jorge!%E2%9A%BD%F0%9F%94%B4;Hola+%F0%9F%8C%B9!%F0%9F%90%80;Hola+Eze!%E2%99%A0%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F;Hola+Daniel!%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A4;Se+Aprueba+Interfaces%3F%F0%9F%99%8F;Mis+Pollitos%F0%9F%90%A4%E2%99%A5%EF%B8%8F;Un Asco Me Dan Basuras%F0%9F%97%91%EF%B8%8F%F0%9F%92%A9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Hola+Jorge!%E2%9A%BD%F0%9F%94%B4;Hola+%F0%9F%8C%B9!%F0%9F%90%80;Hola+Eze!%E2%99%A0%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F;Hola+Daniel!%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A4;Se+Aprueba+Interfaces%3F%F0%9F%99%8F;Un Asco Me Dan Basuras%F0%9F%97%91%EF%B8%8F%F0%9F%92%A9" alt="Typing SVG" /></a>
 </h1>
 
 <h2>Sobre Mi</h2>
